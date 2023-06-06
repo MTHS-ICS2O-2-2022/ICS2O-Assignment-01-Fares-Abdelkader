@@ -2,3 +2,19 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+#my-header {
+  background-color: darkred;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+.city {
+  background-color: black;
+  color: red;
+  padding: 10px;
+}
+
+body {
+  background-color: white;
+}
